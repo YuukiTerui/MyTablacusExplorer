@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.06</Version>
+    <MinVersion>2021.3.25</MinVersion>
+    <pubDate>Fri, 26 Mar 2021 00:00:00 GMT</pubDate>
+    <Options>Common:0,6:6</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Full path bar</Name>
+    <Description>Show full path.</Description>
+  </en>
+  <ja>
+    <Name>フルパスバー</Name>
+    <Description>バーにフルパスを表示します。</Description>
+  </ja>
+</TablacusExplorer>
